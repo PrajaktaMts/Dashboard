@@ -1,0 +1,31 @@
+/* Responsive CSS Here */
+@media screen and (max-width: 950px) {
+    .nav-option {
+        gap: 30px;
+    }
+    .nav-option h3 {
+        font-size: 15px;
+    }
+    .report-topic-heading,
+    .item1,
+    .items {
+        width: 800px;
+    }
+    }
+    @media screen and (max-width: 400px) {
+    .recent-Articles {
+        font-size: 17px;
+    }
+    .view {
+        width: 60px;
+        font-size: 10px;
+        height: 27px;
+    }
+    .report-header {
+        height: 60px;
+        padding: 10px 10px 5px 10px;
+    }
+    
+    }
+    
+   
